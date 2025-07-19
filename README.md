@@ -1,4 +1,4 @@
-# 🛋️ Nilkamal Furniture E-commerce Platform
+# Kanha Furniture E-commerce Platform
 
 <div align="center">
 
